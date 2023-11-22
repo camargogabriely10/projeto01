@@ -1,0 +1,9 @@
+.cabeçalho{
+    background-color: azure;
+     border: 10px;
+     border-color: blueviolet;
+     border-style: dashed;
+     margin: 10px;
+     color: ghostwhite;
+     font-weight: 400;
+}
