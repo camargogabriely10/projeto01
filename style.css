@@ -1,9 +1,9 @@
-#link{
+.link{
     font-size: 20px;
     color: rgb(119, 0, 255);
     text-decoration: none;
 }
-#link:hover{
+.link:hover{
     font-size: 30px;
     color: rgb(64, 12, 133);
     text-decoration: underline;

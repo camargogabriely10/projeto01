@@ -1,3 +1,4 @@
+
 .cabeçalho{
     background-color: rgb(255, 160, 255);
      border: 10px;
@@ -15,4 +16,13 @@
     border-style: double;
     margin: 30px;
     color: cornflowerblue;
+}
+.lista-links{
+    font-size: 30px;
+    color: aquamarine;
+
+}
+.lista-links:hover{
+    font-size: 40px;
+    color: cadetblue;
 }
